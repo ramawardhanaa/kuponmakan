@@ -2,17 +2,20 @@
 	"data":
 
 		[{
-				"id": 1357,
-				"Nama": "Rama Wardhana",
-				"Menu": "Ayam Goreng"
+				"rfid": 13572922,
+				"fingerid":200349,
+				"nama": "Rama Wardhana",
+				"menu": "Ayam Goreng"
 			},
 			{
-				"id": 1234,
+				"id": 12345678,
+				"fingerid":200370,
 				"Nama": "Irham Mulkan",
 				"Menu": "Ikan Bakar"
 			},
 			{
-				"id": 1665,
+				"id": 16653201,
+				"fingerid":100349,
 				"Nama": "Ahmad Zaki",
 				"Menu": "Kacang Rebus"
 			}
