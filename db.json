@@ -1,17 +1,20 @@
-[
-  {
-		"id": 1357,
-		"Nama": "Rama Wardhana",
-		"Menu": "Ayam Goreng"
-	},
-	{
-		"id": 1234,
-		"Nama": "Irham Mulkan",
-		"Menu": "Ikan Bakar"
-	},
-	{
-		"id": 1665,
-		"Nama": "Ahmad Zaki",
-		"Menu": "Kacang Rebus"
-	}
-]
+{
+	"data":
+
+		[{
+				"id": 1357,
+				"Nama": "Rama Wardhana",
+				"Menu": "Ayam Goreng"
+			},
+			{
+				"id": 1234,
+				"Nama": "Irham Mulkan",
+				"Menu": "Ikan Bakar"
+			},
+			{
+				"id": 1665,
+				"Nama": "Ahmad Zaki",
+				"Menu": "Kacang Rebus"
+			}
+		]
+}
