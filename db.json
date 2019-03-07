@@ -8,13 +8,13 @@
 				"menu": "Ayam Goreng"
 			},
 			{
-				"id": 12345678,
+				"rfid": 12345678,
 				"fingerid":200370,
 				"Nama": "Irham Mulkan",
 				"Menu": "Ikan Bakar"
 			},
 			{
-				"id": 16653201,
+				"rfid": 16653201,
 				"fingerid":100349,
 				"Nama": "Ahmad Zaki",
 				"Menu": "Kacang Rebus"
