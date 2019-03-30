@@ -37,8 +37,8 @@
 			{
 				"rfid": 16653201,
 				"fingerid":100349,
-				"Nama": "Ahmad Zaki",
-				"Menu": "Kacang Rebus",
+				"nama": "Ahmad Zaki",
+				"menu": "Kacang Rebus",
 				"kuponmakan":0,
 				"kuponmerah":0,
 				"gula":2,
