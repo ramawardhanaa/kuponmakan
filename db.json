@@ -7,7 +7,10 @@
 				"nama": "Rama Wardhana",
 				"menu": "Ayam Goreng",
 				"kuponmakan":0,
-				"kuponmerah":1
+				"kuponmerah":1,
+				"gula":2,
+				"minyak":3,
+				"susu":1
 			},
 			{
 				"rfid": 12345678,
@@ -15,7 +18,10 @@
 				"nama": "Irham Mulkan",
 				"menu": "Ikan Bakar",
 				"kuponmakan":0,
-				"kuponmerah":0
+				"kuponmerah":0,
+				"gula":2,
+				"minyak":3,
+				"susu":1
 			},
 		 {
 				"rfid": 12345666,
@@ -23,7 +29,10 @@
 				"nama": "Irham Mulkan",
 				"menu": "Ikan Goreng",
 				"kuponmakan":1,
-				"kuponmerah":0
+				"kuponmerah":0,
+			 	"gula":2,
+				"minyak":3,
+				"susu":1
 			},
 			{
 				"rfid": 16653201,
@@ -31,7 +40,11 @@
 				"Nama": "Ahmad Zaki",
 				"Menu": "Kacang Rebus",
 				"kuponmakan":0,
-				"kuponmerah":0
+				"kuponmerah":0,
+				"gula":2,
+				"minyak":3,
+				"susu":1
+			
 			}
 		]
 }
