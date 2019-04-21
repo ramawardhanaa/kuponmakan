@@ -2,7 +2,7 @@
 	"data":
 
 		[{
-				"rfid": 13572922,
+				"rfid": 3379145155,
 				"fingerid":200349,
 				"nama": "Rama Wardhana",
 				"menu": "Ayam Goreng",
@@ -13,7 +13,7 @@
 				"susu":1
 			},
 			{
-				"rfid": 12345678,
+				"rfid": 3379092544,
 				"fingerid":200370,
 				"nama": "Irhamy mulqkang",
 				"menu": "Ikan Bakar",
@@ -25,18 +25,18 @@
 			},
 		 {
 				"rfid": 12345666,
-				"fingerid":200333,
+				"fingerid":10,
 				"nama": "Irham Mulkan",
 				"menu": "Ikan Goreng",
 				"kuponmakan":1,
 				"kuponmerah":0,
-			 	"gula":2,
+			 	"gula":1,
 				"minyak":3,
-				"susu":1
+				"susu":2
 			},
 			{
 				"rfid": 16653201,
-				"fingerid":100349,
+				"fingerid":100,
 				"nama": "Ahmad Zaki",
 				"menu": "Kacang Rebus",
 				"kuponmakan":0,
