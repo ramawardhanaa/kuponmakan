@@ -3,47 +3,48 @@
 
 		[{
 				"rfid": 3379145155,
-				"fingerid":200349,
+				"fingerid": 200349,
 				"nama": "Rama Wardhana",
 				"menu": "Ayam Goreng",
-				"kuponmakan":0,
-				"kuponmerah":1,
-				"gula":2,
-				"minyak":3,
-				"susu":1
+				"kuponmakan": 0,
+				"kuponmerah": 1,
+				"gula": 2,
+				"minyak": 3,
+				"susu": 1
 			},
 			{
 				"rfid": 3379092544,
-				"fingerid":200370,
+				"fingerid": 200370,
 				"nama": "Irhamy mulqkang",
 				"menu": "Ikan Bakar",
-				"kuponmakan":0,
-				"kuponmerah":0,
-				"gula":2,
-				"minyak":3,
-				"susu":1
+				"kuponmakan": 0,
+				"kuponmerah": 0,
+				"gula": 2,
+				"minyak": 3,
+				"susu": 1
 			},
-		 {
+			{
 				"rfid": 12345666,
-				"fingerid":10,
+				"fingerid": 10,
 				"nama": "Irham Mulkan",
 				"menu": "Ikan Goreng",
-				"kuponmakan":1,
-				"kuponmerah":0,
-			 	"gula":1,
-				"minyak":3,
-				"susu":2
+				"kuponmakan": 1,
+				"kuponmerah": 0,
+				"gula": 1,
+				"minyak": 3,
+				"susu": 2
 			},
 			{
 				"rfid": 16653201,
-				"fingerid":100,
+				"fingerid": 100,
 				"nama": "Ahmad Zaki",
 				"menu": "Kacang Rebus",
-				"kuponmakan":0,
-				"kuponmerah":0,
-				"gula":2,
-				"minyak":3,
-				"susu":1
+				"kuponmakan": 0,
+				"kuponmerah": 0,
+				"gula": 2,
+				"minyak": 3,
+				"susu": 1
 
 			}
 		]
+}
